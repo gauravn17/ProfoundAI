@@ -1,0 +1,10 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000;
+  color: #FFD700;
+  font-family: 'Inter', sans-serif;
+}
