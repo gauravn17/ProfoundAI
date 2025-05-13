@@ -1,30 +1,41 @@
-# 🌌 ProfoundAI
+🌌 #ProfoundAI
 
-**ProfoundAI** is your AI-powered companion for deep reflection, emotional insight, and creative expression. Through reflective conversations, journaling, and generative art and writing, ProfoundAI helps you explore your inner world and express your thoughts in meaningful ways.
-![logo](https://github.com/user-attachments/assets/528368b0-567d-47a5-aee8-cf1a337e53fd)
+ProfoundAI is your AI-powered companion for deep reflection, emotional insight, and creative expression. Through reflective conversations, journaling, inspirational mentorship, and generative art and writing, ProfoundAI helps you explore your inner world and find meaning during life’s most difficult and beautiful moments.
 
+⸻
 
----
+✨ Key Features
 
-## ✨ Key Features
+💬 DeepTalk – Reflective AI Conversations
 
-### 💬 DeepTalk – Reflective AI Conversations
-Have thoughtful, emotionally-aware conversations with an LLM-based chatbot that can guide you through self-reflection, hard questions, or creative musings.
+An emotionally-aware chatbot that encourages introspection and self-understanding.
 
-### 📝 Emotional Journaling
-Write journal entries with or without prompts. Get emotional feedback and weekly summaries that help you understand trends in your mood, focus, or inner thoughts.
+📝 Journaling + Emotional Insights
 
-### 🎨 Creative Muse
-Turn your feelings, memories, or prompts into:
-- 🖋️ Poetry and prose
-- 🖼️ AI-generated images
-- 🎵 (Future) Lo-fi soundtracks
+Write journal entries guided by prompts. ProfoundAI provides mood analysis, recurring theme detection, and weekly insights.
 
-### 📊 Insight Dashboard
-Visualize your emotional patterns and writing themes over time:
-- Sentiment trends (happy/sad/neutral)
-- Word cloud of recurring topics
-- AI-generated summary reflections
+🎨 Muse Mode – Emotional Creative Generator
+
+Turn feelings into:
+	•	Poetry and prose
+	•	AI-generated art
+	•	Mood-based affirmations or visuals
+
+🛡️ Guardian Mode (a.k.a. Socrates)
+
+Summon a wise, fatherly, or god-like AI presence that provides deeply personalized, emotionally resonant quotes during difficult times.
+
+📊 Insight Dashboard (Upcoming)
+	•	Sentiment timeline
+	•	Emotional avatar visualization
+	•	Keyword clouds and transformation mapping
+
+🧠 Optional Modes Coming Soon
+	•	Timeless: Stoic, Buddhist, and Sufi-style responses
+	•	Mindspace: Mood-reactive ambiance + meditation triggers
+	•	Storybook: Turn your journey into a memoir-like narrative
+
+⸻
 
 ---
 
