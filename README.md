@@ -1,4 +1,4 @@
-# 🌌 ProfoundAI
+#ProfoundAI
 
 ![ProfoundAI logo](https://github.com/user-attachments/assets/a0a9c15c-1be6-411e-b3bb-2f524c43210b)
 
