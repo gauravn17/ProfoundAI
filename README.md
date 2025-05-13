@@ -1,4 +1,4 @@
-🌌 #ProfoundAI
+🌌ProfoundAI
 
 ProfoundAI is your AI-powered companion for deep reflection, emotional insight, and creative expression. Through reflective conversations, journaling, inspirational mentorship, and generative art and writing, ProfoundAI helps you explore your inner world and find meaning during life’s most difficult and beautiful moments.
 
