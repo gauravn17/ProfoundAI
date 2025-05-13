@@ -1,5 +1,5 @@
 # 🌌 ProfoundAI
-[
+
 **ProfoundAI** is your AI-powered companion for deep reflection, emotional insight, and creative expression. Through reflective conversations, journaling, and generative art and writing, ProfoundAI helps you explore your inner world and express your thoughts in meaningful ways.
 ![logo](https://github.com/user-attachments/assets/528368b0-567d-47a5-aee8-cf1a337e53fd)
 
