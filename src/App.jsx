@@ -1,6 +1,6 @@
 // src/App.jsx
 import { useState } from 'react';
-import { ReflectiveChat } from './components/ReflectiveChat.jsx';
+import { DeepTalk } from './components/DeepTalk.jsx'; // renamed import
 import { Journal } from './components/Journal.jsx';
 import { Muse } from './components/Muse.jsx';
 
@@ -19,7 +19,7 @@ export default function App() {
       </header>
 
       <main className="p-6">
-        {view === 'chat' && <ReflectiveChat />}
+        {view === 'chat' && <DeepTalk />}   {/* <- was ReflectiveChat */}
         {view === 'journal' && <Journal />}
         {view === 'muse' && <Muse />}
       </main>
