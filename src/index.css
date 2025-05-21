@@ -5,6 +5,15 @@
 
 body {
   background-color: #000;
-  color: #FFD700;
+  color: #FFD700; /* gold */
   font-family: 'Inter', sans-serif;
+}
+
+input, textarea {
+  outline: none;
+}
+
+::selection {
+  background-color: #FFD700;
+  color: #000;
 }
